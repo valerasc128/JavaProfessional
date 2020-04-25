@@ -1,0 +1,23 @@
+package ua.com.foxminded.carmanager;
+
+public class CarManager {
+
+	public static void main(String[] args) {
+		Car prius = new Car();
+		prius.name = "Toyota Prius";
+		prius.color = "Green";
+		prius.yearOfProduction = 2008;
+		prius.weight = 1200;
+		prius.price = 15000;
+		
+		Car renault = new Car();
+		
+		renault.name = "Renault Laguna";
+		renault.color = "white";
+		renault.yearOfProduction = 2000;
+		renault.weight = 1600;
+		renault.price = 9700;
+
+	}
+
+}

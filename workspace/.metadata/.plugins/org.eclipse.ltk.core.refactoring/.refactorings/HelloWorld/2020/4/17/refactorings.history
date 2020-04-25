@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;i&apos; from expression &apos;42&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorld&apos;&#x0D;&#x0A;- Variable name: &apos;i&apos;&#x0D;&#x0A;- Destination method: &apos;ua.com.foxminded.helloworld.HelloWorld.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;42&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;i&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;ua.com.foxminded.helloworld{HelloWorld.java" name="i" replace="true" selection="137 2" stamp="1587397716730" varType="false" version="1.0"/>
+</session>

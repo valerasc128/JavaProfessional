@@ -1,0 +1,12 @@
+package ua.com.foxminded.helloworld;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+		int i = 42;
+		System.out.println(i);
+		System.out.println(42);
+	}
+
+}

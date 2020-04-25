@@ -1,0 +1,12 @@
+package ua.com.foxminded.carmanager;
+
+public class Car {
+	
+	String name;
+	int yearOfProduction;
+	int price;
+	int weight;
+	String color;
+	
+
+}

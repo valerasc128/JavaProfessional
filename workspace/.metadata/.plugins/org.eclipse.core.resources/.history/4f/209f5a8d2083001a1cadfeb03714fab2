@@ -1,0 +1,16 @@
+package ua.com.foxminded.helloworld;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+
+		String stringAnswer = answer + message;
+		int i = 6;
+		int j = 7;
+		int answer = i * j;
+		String message = "Hello world!";
+		System.out.println(stringAnswer);
+		
+	}
+
+}

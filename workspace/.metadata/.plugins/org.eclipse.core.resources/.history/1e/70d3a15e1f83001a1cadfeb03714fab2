@@ -1,0 +1,13 @@
+package ua.com.foxminded.helloworld;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+		int i = 6;
+		int j = 7;
+		int answer = i+j;
+		System.out.println(answer);
+	}
+
+}

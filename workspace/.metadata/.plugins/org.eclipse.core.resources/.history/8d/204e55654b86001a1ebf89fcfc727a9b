@@ -1,0 +1,27 @@
+package ua.com.foxminded.helloworld;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+
+		
+		int i = 6;
+		int j = 7;
+		float answer = (float)j / (float)i;
+		
+		String message = "Hello world!";
+		
+		String stringAnswer = message + " " + answer;
+		boolean isMoreThanOne;
+		if(answer >1) {
+			isMoreThanOne =true;
+		} else {
+			isMoreThanOne = false;
+		}
+		
+		System.out.println(message);
+		System.out.println(stringAnswer + " "+ isMoreThanOne);
+		
+	}
+
+}
